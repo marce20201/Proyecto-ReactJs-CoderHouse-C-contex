@@ -1,0 +1,8 @@
+.icono-carrito{
+    margin-left:1.5rem;
+    color: rebeccapurple;
+    margin-top: 1.2rem;
+}
+.icono-carrito:hover{
+    color:rgb(203, 65, 216);
+}
